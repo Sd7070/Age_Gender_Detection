@@ -1,0 +1,13 @@
+# Ignore model files
+*.h5
+
+# Ignore Python virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore archive folder
+archive/
